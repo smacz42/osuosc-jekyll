@@ -1,5 +1,5 @@
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
-
+##delgado
 ## Forked for OSUOSC
 
 This means that all that is needed to add a talk or a news item in a weekly rundown is to issue a PR with the new item under the `_posts` or `_tutorials` directory respectively.
